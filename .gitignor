@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.env/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+*.json
+
+# Models and other output files
+models/
+outputs/
+
+# Streamlit
+.streamlit/
+
+# FastAPI logs (if any)
+*.log
